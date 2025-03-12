@@ -1,4 +1,4 @@
-package LeetCode;
+
 
 public class GoodPairs {
     private static int count;

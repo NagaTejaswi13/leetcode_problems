@@ -1,4 +1,4 @@
-package LeetCode.StringsLeetcode;
+package StringsLeetcode;
 
 public class ShuffledString {
 

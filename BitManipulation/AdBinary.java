@@ -1,4 +1,4 @@
-package LeetCode.BitManipulation;
+package BitManipulation;
 
 public class AdBinary {
     public static void main(String[] args){

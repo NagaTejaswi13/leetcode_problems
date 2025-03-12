@@ -1,6 +1,4 @@
-package LeetCode;
 
-import java.util.Arrays;
 public class MaxProfit {
 
     public static int minOf(int[] prices){

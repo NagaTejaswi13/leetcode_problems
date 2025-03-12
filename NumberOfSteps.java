@@ -1,4 +1,4 @@
-package LeetCode;
+
 
 public class NumberOfSteps {
     static int step = 0;

@@ -1,4 +1,4 @@
-package LeetCode;
+
 
 public class PerfectSquare {
     public static boolean isPerfectSquare(int num) {
